@@ -1,0 +1,9 @@
+{
+  "name": "srn-533-soundcite-html",
+  "version": "1.0.0",
+  "description": "HTML",
+  "main": "index.js",
+  "repository": "git@github.com:MateoEstradaOSU/srn-533-soundcite-html.git",
+  "author": "Mateo <mateo.estrada@oregonstate.edu>",
+  "license": "MIT"
+}
